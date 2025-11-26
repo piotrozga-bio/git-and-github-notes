@@ -119,7 +119,7 @@ git reset --hard HEAD~1
 ```
 git branch <new_branch_name>
 ```
-Branches allow you to work on new features without affecting the main codebase. This is essential for testing and experimentation.
+*Branches allow you to work on new features without affecting the main codebase. This is essential for testing and experimentation.*
 - Create a new branch and switch to it:
 ```
 git checkout -b <new_branch_name>
